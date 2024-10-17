@@ -1,4 +1,4 @@
-# FULL_ADDER_SUBTRACTOR
+# EX-04-FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -47,8 +47,8 @@ Write the detailed procedure here
 
 **FULL_ADDER**
 ```
-Developed by: JAVITH FARKHAN S
-RegisterNumber: 212221240017
+Developed by: KERSOAN P
+RegisterNumber: 212221230050
 
 module full_adder(a,b,cin,sum,carry);
 input a,b,cin;
